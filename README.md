@@ -5,4 +5,4 @@
 
 About me
 name: sirapassorn
-pet: cat
+pet: cat, dog
