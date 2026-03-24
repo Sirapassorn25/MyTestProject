@@ -6,3 +6,4 @@
 About me
 name: sirapassorn
 pet: cat, dog
+nickname: Bell
