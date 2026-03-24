@@ -5,3 +5,4 @@
 
 About me
 name: sirapassorn
+pet: cat
