@@ -6,3 +6,5 @@
 About me
 name: sirapassorn
 nickname: Bell
+
+code: 1214
