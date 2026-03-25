@@ -5,3 +5,4 @@ Age: 20
 Flower: daisy
 Game: Coral Island
 Song: lover
+Week: 1
