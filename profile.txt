@@ -1,7 +1,2 @@
-About Me
 name: Bell
-color: yellow
 Age: 20
-Flower: daisy
-Game: Coral Island
-
