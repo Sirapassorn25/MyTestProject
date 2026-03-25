@@ -1,4 +1,5 @@
 About Me
 name: Ann
 Age: 20
-Game: daisy
+Flower: daisy
+Game: Coral Island
