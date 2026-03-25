@@ -1,3 +1,2 @@
 About Me
 name: Bell
-color: red
