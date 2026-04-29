@@ -2,3 +2,8 @@ Edit A
 Edit Edit 3
 Edit Edit
 Note
+<<<<<<< Updated upstream
+NoteQ
+=======
+NoteZ
+>>>>>>> Stashed changes
